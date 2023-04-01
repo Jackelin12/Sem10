@@ -1,0 +1,5 @@
+C:\Users\jacke\source\repos\Semana10\Semana10\obj\Debug\net6.0\Semana10.csproj.AssemblyReference.cache
+C:\Users\jacke\source\repos\Semana10\Semana10\obj\Debug\net6.0\Semana10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacke\source\repos\Semana10\Semana10\obj\Debug\net6.0\Semana10.AssemblyInfoInputs.cache
+C:\Users\jacke\source\repos\Semana10\Semana10\obj\Debug\net6.0\Semana10.AssemblyInfo.cs
+C:\Users\jacke\source\repos\Semana10\Semana10\obj\Debug\net6.0\Semana10.csproj.CoreCompileInputs.cache
